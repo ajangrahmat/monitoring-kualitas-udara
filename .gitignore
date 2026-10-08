@@ -1,0 +1,31 @@
+# PlatformIO build and dependency folders
+.pio/
+.pioenvs/
+.piolibdeps/
+
+# Build outputs
+build/
+*.elf
+*.bin
+*.hex
+*.map
+*.out
+
+# IDE/editor configs
+.vscode/
+.idea/
+.vs/
+
+# Environment files
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+
+# Misc
+.cache/
+*.log
