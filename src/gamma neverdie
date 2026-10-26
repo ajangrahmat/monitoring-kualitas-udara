@@ -5,10 +5,10 @@
 #include <Adafruit_SSD1306.h>
 #include <DHT.h>
 
-const char* ssid = "Kelas Robot"; // Ganti dengan SSID
-const char* password = "kumaha aa we"; // Ganti dengan password WiFi
+const char* ssid = "nama wifi"; // Ganti dengan SSID
+const char* password = "password wifi"; // Ganti dengan password WiFi
 
-#define BOT_TOKEN "8246234453:AAEcoP9k5teEFOBovHwvB2_e2vAqL5FMXuQ" // Ganti dengan token bot Anda
+#define BOT_TOKEN "isi dengan bot token" // Ganti dengan token bot Anda
 #define CHAT_ID "5946869783" // Ganti dengan chat ID Anda
 
 #define DHTPIN 4
