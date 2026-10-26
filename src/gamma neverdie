@@ -9,7 +9,7 @@ const char* ssid = "nama wifi"; // Ganti dengan SSID
 const char* password = "password wifi"; // Ganti dengan password WiFi
 
 #define BOT_TOKEN "isi dengan bot token" // Ganti dengan token bot Anda
-#define CHAT_ID "5946869783" // Ganti dengan chat ID Anda
+#define CHAT_ID "isi dengan chat id anda" // Ganti dengan chat ID Anda
 
 #define DHTPIN 4
 #define DHTTYPE DHT11
