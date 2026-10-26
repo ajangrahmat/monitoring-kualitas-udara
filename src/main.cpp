@@ -10,17 +10,17 @@
 // =========================
 // WIFI
 // =========================
-const char* ssid = "Kelas Robot";
-const char* password = "kumaha aa we";
+const char* ssid = "nama wifi";
+const char* password = "pasword wifi";
 
 // =========================
 // TELEGRAM
 // =========================
-#define BOT_TOKEN "8246234453:AAEcoP9k5teEFOBovHwvB2_e2vAqL5FMXuQ"
-#define CHAT_ID "5946869783"
+#define BOT_TOKEN "isi token"
+#define CHAT_ID "nomer chat id"
 
 WiFiClientSecure client;
-UniversalTelegramBot bot("8246234453:AAEcoP9k5teEFOBovHwvB2_e2vAqL5FMXuQ", client);
+UniversalTelegramBot bot("isi token ", client);
 
 // =========================
 // PIN
